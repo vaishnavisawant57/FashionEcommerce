@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "742823099221",
+    "project_id": "fashionecommerce-175ec",
+    "storage_bucket": "fashionecommerce-175ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742823099221:android:d18c671941e42580ba4ddc",
+        "android_client_info": {
+          "package_name": "com.example.fashionecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742823099221-njqu78o2aooshpcoivpeeonirhh0smgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fashionecommerce",
+            "certificate_hash": "dfa4ae7325af4f0dc931911b6519ab4401b56bc4"
+          }
+        },
+        {
+          "client_id": "742823099221-395ns6dt5q1353sa7qsnnhckrmlctka1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGGMt3QtzGt4wva8I2HXUOUctOTVRP-6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742823099221-395ns6dt5q1353sa7qsnnhckrmlctka1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
